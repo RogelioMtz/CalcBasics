@@ -4,12 +4,12 @@ This is a command-line calculator application written in Go. It supports basic a
 
 ## Features
 
-- Basic Operations:
+Basic Operations:
   - Addition
   - Subtraction
   - Multiplication
   - Division
-- Advanced Operations:
+Advanced Operations:
   - Exponential
   - Square Root
 
