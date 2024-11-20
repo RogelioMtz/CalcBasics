@@ -9,6 +9,7 @@ Basic Operations:
   - Subtraction
   - Multiplication
   - Division
+
 Advanced Operations:
   - Exponential
   - Square Root
