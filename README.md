@@ -5,14 +5,13 @@ This is a command-line calculator application written in Go. It supports basic a
 ## Features
 
 - Basic Operations:
-  - Addition (`+`)
-  - Subtraction (`-`)
-  - Multiplication (`*`)
-  - Division (`/`)
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
 - Advanced Operations:
-  - Exponential (`^`)
-  - Square Root (`v`)
-- Quit the application (`q`)
+  - Exponential
+  - Square Root
 
 ## Usage
 
