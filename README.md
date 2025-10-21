@@ -14,25 +14,5 @@ Advanced Operations:
   - Exponential
   - Square Root
 
-## Usage
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/RogelioMtz/CalcBasics.git
-    cd CalcBasics
-    ```
-
-2. Build the application:
-    ```sh
-    go build -o calcBasics
-    ```
-
-3. Run the application:
-    ```sh
-    ./calcBasics
-    ```
-
-4. Follow the on-screen instructions to perform calculations.
-
 ## License
 This project is licensed under the Mozilla Public License 2.0.
